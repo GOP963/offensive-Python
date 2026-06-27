@@ -1,0 +1,6 @@
+C:\Users\charon\Desktop\offensive python\4\WorkingWithCLR\RunMimikatz\DInvoke-main\DInvoke-main\DInvoke\DInvoke\bin\Release\DInvoke.dll
+C:\Users\charon\Desktop\offensive python\4\WorkingWithCLR\RunMimikatz\DInvoke-main\DInvoke-main\DInvoke\DInvoke\bin\Release\DInvoke.pdb
+C:\Users\charon\Desktop\offensive python\4\WorkingWithCLR\RunMimikatz\DInvoke-main\DInvoke-main\DInvoke\DInvoke\obj\Release\DInvoke.csproj.AssemblyReference.cache
+C:\Users\charon\Desktop\offensive python\4\WorkingWithCLR\RunMimikatz\DInvoke-main\DInvoke-main\DInvoke\DInvoke\obj\Release\DInvoke.csproj.CoreCompileInputs.cache
+C:\Users\charon\Desktop\offensive python\4\WorkingWithCLR\RunMimikatz\DInvoke-main\DInvoke-main\DInvoke\DInvoke\obj\Release\DInvoke.dll
+C:\Users\charon\Desktop\offensive python\4\WorkingWithCLR\RunMimikatz\DInvoke-main\DInvoke-main\DInvoke\DInvoke\obj\Release\DInvoke.pdb
