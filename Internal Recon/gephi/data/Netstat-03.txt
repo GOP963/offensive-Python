@@ -1,0 +1,246 @@
+  TCP    0.0.0.0:25             0.0.0.0:0              LISTENING       InHost
+  TCP    0.0.0.0:80             0.0.0.0:0              LISTENING       InHost
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       InHost
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       InHost
+  TCP    0.0.0.0:1433           0.0.0.0:0              LISTENING       InHost
+  TCP    0.0.0.0:2383           0.0.0.0:0              LISTENING       InHost
+  TCP    0.0.0.0:3389           0.0.0.0:0              LISTENING       InHost
+  TCP    0.0.0.0:5985           0.0.0.0:0              LISTENING       InHost
+  TCP    0.0.0.0:7070           0.0.0.0:0              LISTENING       InHost
+  TCP    0.0.0.0:8082           0.0.0.0:0              LISTENING       InHost
+  TCP    0.0.0.0:30000          0.0.0.0:0              LISTENING       InHost
+  TCP    0.0.0.0:30001          0.0.0.0:0              LISTENING       InHost
+  TCP    0.0.0.0:30010          0.0.0.0:0              LISTENING       InHost
+  TCP    0.0.0.0:30030          0.0.0.0:0              LISTENING       InHost
+  TCP    0.0.0.0:35883          0.0.0.0:0              LISTENING       InHost
+  TCP    0.0.0.0:40000          0.0.0.0:0              LISTENING       InHost
+  TCP    0.0.0.0:47001          0.0.0.0:0              LISTENING       InHost
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING       InHost
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING       InHost
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING       InHost
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING       InHost
+  TCP    0.0.0.0:49669          0.0.0.0:0              LISTENING       InHost
+  TCP    0.0.0.0:49672          0.0.0.0:0              LISTENING       InHost
+  TCP    0.0.0.0:49673          0.0.0.0:0              LISTENING       InHost
+  TCP    0.0.0.0:49674          0.0.0.0:0              LISTENING       InHost
+  TCP    0.0.0.0:49695          0.0.0.0:0              LISTENING       InHost
+  TCP    0.0.0.0:50515          0.0.0.0:0              LISTENING       InHost
+  TCP    0.0.0.0:51106          0.0.0.0:0              LISTENING       InHost
+  TCP    0.0.0.0:60000          0.0.0.0:0              LISTENING       InHost
+  TCP    127.0.0.1:445          127.0.0.1:49824        ESTABLISHED     InHost
+  TCP    127.0.0.1:1434         0.0.0.0:0              LISTENING       InHost
+  TCP    127.0.0.1:9072         0.0.0.0:0              LISTENING       InHost
+  TCP    127.0.0.1:30000        127.0.0.1:49686        ESTABLISHED     InHost
+  TCP    127.0.0.1:49675        127.0.0.1:49676        ESTABLISHED     InHost
+  TCP    127.0.0.1:49676        127.0.0.1:49675        ESTABLISHED     InHost
+  TCP    127.0.0.1:49681        127.0.0.1:49682        ESTABLISHED     InHost
+  TCP    127.0.0.1:49682        127.0.0.1:49681        ESTABLISHED     InHost
+  TCP    127.0.0.1:49686        127.0.0.1:30000        ESTABLISHED     InHost
+  TCP    127.0.0.1:49717        127.0.0.1:49718        ESTABLISHED     InHost
+  TCP    127.0.0.1:49718        127.0.0.1:49717        ESTABLISHED     InHost
+  TCP    127.0.0.1:49719        127.0.0.1:49720        ESTABLISHED     InHost
+  TCP    127.0.0.1:49720        127.0.0.1:49719        ESTABLISHED     InHost
+  TCP    127.0.0.1:49721        127.0.0.1:49722        ESTABLISHED     InHost
+  TCP    127.0.0.1:49722        127.0.0.1:49721        ESTABLISHED     InHost
+  TCP    127.0.0.1:49811        127.0.0.1:49812        ESTABLISHED     InHost
+  TCP    127.0.0.1:49812        127.0.0.1:49811        ESTABLISHED     InHost
+  TCP    127.0.0.1:49813        127.0.0.1:49814        ESTABLISHED     InHost
+  TCP    127.0.0.1:49814        127.0.0.1:49813        ESTABLISHED     InHost
+  TCP    127.0.0.1:49815        127.0.0.1:49816        ESTABLISHED     InHost
+  TCP    127.0.0.1:49816        127.0.0.1:49815        ESTABLISHED     InHost
+  TCP    127.0.0.1:49817        127.0.0.1:49818        ESTABLISHED     InHost
+  TCP    127.0.0.1:49818        127.0.0.1:49817        ESTABLISHED     InHost
+  TCP    127.0.0.1:49824        127.0.0.1:445          ESTABLISHED     InHost
+  TCP    127.0.0.1:49824        127.0.0.1:49825        ESTABLISHED     InHost
+  TCP    127.0.0.1:49825        127.0.0.1:49824        ESTABLISHED     InHost
+  TCP    127.0.0.1:49826        127.0.0.1:49827        ESTABLISHED     InHost
+  TCP    127.0.0.1:49827        127.0.0.1:49826        ESTABLISHED     InHost
+  TCP    127.0.0.1:49834        127.0.0.1:49835        ESTABLISHED     InHost
+  TCP    127.0.0.1:49835        127.0.0.1:49834        ESTABLISHED     InHost
+  TCP    127.0.0.1:49838        127.0.0.1:49839        ESTABLISHED     InHost
+  TCP    127.0.0.1:49839        127.0.0.1:49838        ESTABLISHED     InHost
+  TCP    127.0.0.1:49840        127.0.0.1:49841        ESTABLISHED     InHost
+  TCP    127.0.0.1:49841        127.0.0.1:49840        ESTABLISHED     InHost
+  TCP    127.0.0.1:49842        127.0.0.1:49843        ESTABLISHED     InHost
+  TCP    127.0.0.1:49843        127.0.0.1:49842        ESTABLISHED     InHost
+  TCP    127.0.0.1:49844        127.0.0.1:49845        ESTABLISHED     InHost
+  TCP    127.0.0.1:49845        127.0.0.1:49844        ESTABLISHED     InHost
+  TCP    192.168.1.15:135       192.168.1.8:57183      ESTABLISHED     InHost
+  TCP    192.168.1.15:139       0.0.0.0:0              LISTENING       InHost
+  TCP    192.168.1.15:445       192.168.1.8:57182      ESTABLISHED     InHost
+  TCP    192.168.1.15:445       192.168.1.79:55649     ESTABLISHED     InHost
+  TCP    192.168.1.15:1433      192.168.1.15:49472     ESTABLISHED     InHost
+  TCP    192.168.1.15:1433      192.168.1.15:49795     ESTABLISHED     InHost
+  TCP    192.168.1.15:1433      192.168.1.15:49803     ESTABLISHED     InHost
+  TCP    192.168.1.15:1433      192.168.1.15:51206     ESTABLISHED     InHost
+  TCP    192.168.1.15:1433      192.168.1.15:51207     ESTABLISHED     InHost
+  TCP    192.168.1.15:1433      192.168.1.15:52915     ESTABLISHED     InHost
+  TCP    192.168.1.15:1433      192.168.1.15:54000     ESTABLISHED     InHost
+  TCP    192.168.1.15:1433      192.168.1.15:54001     ESTABLISHED     InHost
+  TCP    192.168.1.15:1433      192.168.1.15:54002     ESTABLISHED     InHost
+  TCP    192.168.1.15:1433      192.168.1.15:54003     ESTABLISHED     InHost
+  TCP    192.168.1.15:1433      192.168.1.32:61214     ESTABLISHED     InHost
+  TCP    192.168.1.15:1433      192.168.1.32:61215     ESTABLISHED     InHost
+  TCP    192.168.1.15:1433      192.168.1.32:61216     ESTABLISHED     InHost
+  TCP    192.168.1.15:1433      192.168.1.32:61217     ESTABLISHED     InHost
+  TCP    192.168.1.15:1433      192.168.1.32:61255     ESTABLISHED     InHost
+  TCP    192.168.1.15:1433      192.168.1.32:61256     ESTABLISHED     InHost
+  TCP    192.168.1.15:1433      192.168.1.79:54604     ESTABLISHED     InHost
+  TCP    192.168.1.15:1433      192.168.1.79:54605     ESTABLISHED     InHost
+  TCP    192.168.1.15:1433      192.168.1.79:61246     ESTABLISHED     InHost
+  TCP    192.168.1.15:1433      192.168.1.79:61247     ESTABLISHED     InHost
+  TCP    192.168.1.15:1433      192.168.1.79:61267     ESTABLISHED     InHost
+  TCP    192.168.1.15:3389      192.168.1.10:52613     ESTABLISHED     InHost
+  TCP    192.168.1.15:30000     192.168.1.15:49687     ESTABLISHED     InHost
+  TCP    192.168.1.15:40000     192.168.1.15:49731     ESTABLISHED     InHost
+  TCP    192.168.1.15:40000     192.168.1.15:49732     ESTABLISHED     InHost
+  TCP    192.168.1.15:40000     192.168.1.15:49828     ESTABLISHED     InHost
+  TCP    192.168.1.15:40000     192.168.1.15:49829     ESTABLISHED     InHost
+  TCP    192.168.1.15:40000     192.168.1.32:63955     ESTABLISHED     InHost
+  TCP    192.168.1.15:49472     192.168.1.15:1433      ESTABLISHED     InHost
+  TCP    192.168.1.15:49474     23.8.185.220:443       CLOSE_WAIT      InHost
+  TCP    192.168.1.15:49484     23.8.185.220:443       CLOSE_WAIT      InHost
+  TCP    192.168.1.15:49486     23.8.185.220:443       CLOSE_WAIT      InHost
+  TCP    192.168.1.15:49610     23.8.185.220:443       ESTABLISHED     InHost
+  TCP    192.168.1.15:49617     23.8.185.220:443       ESTABLISHED     InHost
+  TCP    192.168.1.15:49687     192.168.1.15:30000     ESTABLISHED     InHost
+  TCP    192.168.1.15:49731     192.168.1.15:40000     ESTABLISHED     InHost
+  TCP    192.168.1.15:49732     192.168.1.15:40000     ESTABLISHED     InHost
+  TCP    192.168.1.15:49770     192.168.1.15:40000     TIME_WAIT       InHost
+  TCP    192.168.1.15:49771     192.168.1.15:40000     TIME_WAIT       InHost
+  TCP    192.168.1.15:49772     192.168.1.15:40000     TIME_WAIT       InHost
+  TCP    192.168.1.15:49774     192.168.1.4:135        TIME_WAIT       InHost
+  TCP    192.168.1.15:49778     192.168.1.15:40000     TIME_WAIT       InHost
+  TCP    192.168.1.15:49779     192.168.1.15:40000     TIME_WAIT       InHost
+  TCP    192.168.1.15:49780     192.168.1.15:40000     TIME_WAIT       InHost
+  TCP    192.168.1.15:49783     192.168.1.15:40000     TIME_WAIT       InHost
+  TCP    192.168.1.15:49784     192.168.1.15:40000     TIME_WAIT       InHost
+  TCP    192.168.1.15:49785     192.168.1.15:40000     TIME_WAIT       InHost
+  TCP    192.168.1.15:49787     192.168.1.130:8060     TIME_WAIT       InHost
+  TCP    192.168.1.15:49788     192.168.1.130:8060     TIME_WAIT       InHost
+  TCP    192.168.1.15:49789     192.168.1.130:8060     TIME_WAIT       InHost
+  TCP    192.168.1.15:49790     192.168.1.130:8060     TIME_WAIT       InHost
+  TCP    192.168.1.15:49791     192.168.1.130:8060     TIME_WAIT       InHost
+  TCP    192.168.1.15:49792     192.168.1.130:8060     TIME_WAIT       InHost
+  TCP    192.168.1.15:49793     192.168.1.15:60000     TIME_WAIT       InHost
+  TCP    192.168.1.15:49794     192.168.1.15:40000     TIME_WAIT       InHost
+  TCP    192.168.1.15:49795     192.168.1.15:1433      ESTABLISHED     InHost
+  TCP    192.168.1.15:49796     192.168.1.15:40000     TIME_WAIT       InHost
+  TCP    192.168.1.15:49799     192.168.1.15:40000     TIME_WAIT       InHost
+  TCP    192.168.1.15:49800     192.168.1.15:40000     TIME_WAIT       InHost
+  TCP    192.168.1.15:49801     192.168.1.15:40000     TIME_WAIT       InHost
+  TCP    192.168.1.15:49803     192.168.1.15:1433      ESTABLISHED     InHost
+  TCP    192.168.1.15:49805     192.168.1.15:40000     TIME_WAIT       InHost
+  TCP    192.168.1.15:49806     192.168.1.15:40000     TIME_WAIT       InHost
+  TCP    192.168.1.15:49807     192.168.1.15:40000     TIME_WAIT       InHost
+  TCP    192.168.1.15:49808     192.168.1.4:135        TIME_WAIT       InHost
+  TCP    192.168.1.15:49809     192.168.1.4:49671      TIME_WAIT       InHost
+  TCP    192.168.1.15:49817     192.168.1.15:40000     TIME_WAIT       InHost
+  TCP    192.168.1.15:49819     192.168.1.15:40000     TIME_WAIT       InHost
+  TCP    192.168.1.15:49820     192.168.1.15:40000     TIME_WAIT       InHost
+  TCP    192.168.1.15:49822     192.168.1.130:8060     TIME_WAIT       InHost
+  TCP    192.168.1.15:49823     192.168.1.130:8060     TIME_WAIT       InHost
+  TCP    192.168.1.15:49826     192.168.1.15:60000     ESTABLISHED     InHost
+  TCP    192.168.1.15:49828     192.168.1.15:40000     ESTABLISHED     InHost
+  TCP    192.168.1.15:49829     192.168.1.15:40000     ESTABLISHED     InHost
+  TCP    192.168.1.15:50156     192.168.1.4:49666      ESTABLISHED     InHost
+  TCP    192.168.1.15:51106     192.168.1.8:57184      ESTABLISHED     InHost
+  TCP    192.168.1.15:51206     192.168.1.15:1433      ESTABLISHED     InHost
+  TCP    192.168.1.15:51207     192.168.1.15:1433      ESTABLISHED     InHost
+  TCP    192.168.1.15:52915     192.168.1.15:1433      ESTABLISHED     InHost
+  TCP    192.168.1.15:53787     192.168.1.14:445       ESTABLISHED     InHost
+  TCP    192.168.1.15:54000     192.168.1.15:1433      ESTABLISHED     InHost
+  TCP    192.168.1.15:54001     192.168.1.15:1433      ESTABLISHED     InHost
+  TCP    192.168.1.15:54002     192.168.1.15:1433      ESTABLISHED     InHost
+  TCP    192.168.1.15:54003     192.168.1.15:1433      ESTABLISHED     InHost
+  TCP    192.168.1.15:56767     20.198.162.76:443      ESTABLISHED     InHost
+  TCP    192.168.1.15:57854     20.198.162.76:443      ESTABLISHED     InHost
+  TCP    192.168.1.15:58194     20.198.162.76:443      ESTABLISHED     InHost
+  TCP    192.168.1.15:58802     203.23.178.59:80       ESTABLISHED     InHost
+  TCP    192.168.1.15:60000     192.168.1.15:49826     ESTABLISHED     InHost
+  TCP    192.168.1.15:60000     192.168.1.32:63968     ESTABLISHED     InHost
+  TCP    192.168.1.15:60246     192.168.1.4:389        ESTABLISHED     InHost
+  TCP    192.168.1.15:60251     192.168.1.4:389        ESTABLISHED     InHost
+  TCP    192.168.1.15:64930     23.8.185.220:443       CLOSE_WAIT      InHost
+  TCP    192.168.1.15:65411     104.122.13.192:80      CLOSE_WAIT      InHost
+  TCP    [::]:80                [::]:0                 LISTENING       InHost
+  TCP    [::]:135               [::]:0                 LISTENING       InHost
+  TCP    [::]:445               [::]:0                 LISTENING       InHost
+  TCP    [::]:1433              [::]:0                 LISTENING       InHost
+  TCP    [::]:2383              [::]:0                 LISTENING       InHost
+  TCP    [::]:3389              [::]:0                 LISTENING       InHost
+  TCP    [::]:5985              [::]:0                 LISTENING       InHost
+  TCP    [::]:8082              [::]:0                 LISTENING       InHost
+  TCP    [::]:30010             [::]:0                 LISTENING       InHost
+  TCP    [::]:30030             [::]:0                 LISTENING       InHost
+  TCP    [::]:35883             [::]:0                 LISTENING       InHost
+  TCP    [::]:40000             [::]:0                 LISTENING       InHost
+  TCP    [::]:47001             [::]:0                 LISTENING       InHost
+  TCP    [::]:49664             [::]:0                 LISTENING       InHost
+  TCP    [::]:49665             [::]:0                 LISTENING       InHost
+  TCP    [::]:49666             [::]:0                 LISTENING       InHost
+  TCP    [::]:49667             [::]:0                 LISTENING       InHost
+  TCP    [::]:49669             [::]:0                 LISTENING       InHost
+  TCP    [::]:49672             [::]:0                 LISTENING       InHost
+  TCP    [::]:49673             [::]:0                 LISTENING       InHost
+  TCP    [::]:49674             [::]:0                 LISTENING       InHost
+  TCP    [::]:49695             [::]:0                 LISTENING       InHost
+  TCP    [::]:50515             [::]:0                 LISTENING       InHost
+  TCP    [::]:51106             [::]:0                 LISTENING       InHost
+  TCP    [::]:60000             [::]:0                 LISTENING       InHost
+  TCP    [::1]:1434             [::]:0                 LISTENING       InHost
+  TCP    [::1]:8082             [::1]:59519            ESTABLISHED     InHost
+  TCP    [::1]:40000            [::1]:49797            ESTABLISHED     InHost
+  TCP    [::1]:49769            [::1]:8082             TIME_WAIT       InHost
+  TCP    [::1]:49773            [::1]:8082             TIME_WAIT       InHost
+  TCP    [::1]:49777            [::1]:8082             TIME_WAIT       InHost
+  TCP    [::1]:49781            [::1]:8082             TIME_WAIT       InHost
+  TCP    [::1]:49782            [::1]:8082             TIME_WAIT       InHost
+  TCP    [::1]:49786            [::1]:8082             TIME_WAIT       InHost
+  TCP    [::1]:49797            [::1]:40000            ESTABLISHED     InHost
+  TCP    [::1]:49798            [::1]:8082             TIME_WAIT       InHost
+  TCP    [::1]:49802            [::1]:8082             TIME_WAIT       InHost
+  TCP    [::1]:49804            [::1]:8082             TIME_WAIT       InHost
+  TCP    [::1]:49810            [::1]:8082             TIME_WAIT       InHost
+  TCP    [::1]:49815            [::1]:8082             TIME_WAIT       InHost
+  TCP    [::1]:49821            [::1]:8082             TIME_WAIT       InHost
+  TCP    [::1]:59519            [::1]:8082             ESTABLISHED     InHost
+  UDP    0.0.0.0:123            *:*
+  UDP    0.0.0.0:500            *:*
+  UDP    0.0.0.0:1434           *:*
+  UDP    0.0.0.0:3389           *:*
+  UDP    0.0.0.0:3456           *:*
+  UDP    0.0.0.0:3702           *:*
+  UDP    0.0.0.0:3702           *:*
+  UDP    0.0.0.0:4500           *:*
+  UDP    0.0.0.0:5050           *:*
+  UDP    0.0.0.0:5353           *:*
+  UDP    0.0.0.0:5355           *:*
+  UDP    0.0.0.0:51393          *:*
+  UDP    0.0.0.0:60219          *:*
+  UDP    127.0.0.1:1900         *:*
+  UDP    127.0.0.1:3456         *:*
+  UDP    127.0.0.1:50064        *:*
+  UDP    127.0.0.1:51549        *:*
+  UDP    127.0.0.1:51823        *:*
+  UDP    127.0.0.1:53226        *:*
+  UDP    127.0.0.1:53626        *:*
+  UDP    127.0.0.1:53627        *:*
+  UDP    127.0.0.1:58144        *:*
+  UDP    127.0.0.1:64151        *:*
+  UDP    127.0.0.1:64285        *:*
+  UDP    127.0.0.1:65309        *:*
+  UDP    192.168.1.15:137       *:*
+  UDP    192.168.1.15:138       *:*
+  UDP    192.168.1.15:1900      *:*
+  UDP    192.168.1.15:51822     *:*
+  UDP    [::]:123               *:*
+  UDP    [::]:500               *:*
+  UDP    [::]:1434              *:*
+  UDP    [::]:3389              *:*
+  UDP    [::]:3702              *:*
+  UDP    [::]:3702              *:*
+  UDP    [::]:4500              *:*
+  UDP    [::]:51394             *:*
+  UDP    [::1]:1900             *:*
+  UDP    [::1]:51821            *:*
