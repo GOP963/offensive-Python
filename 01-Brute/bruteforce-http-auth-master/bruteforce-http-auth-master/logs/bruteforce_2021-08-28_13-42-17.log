@@ -1,0 +1,17 @@
+--------------------------
+~  Bruteforce HTTP Auth  ~
+--------------------------
+
+Included in bruteforce scope:
+
+=> URL: https://webmail.kwan.co.in/ews/Exchange.asmx
+   Status code: 401
+   Server: Microsoft-IIS/8.5
+   Date: Sat, 28 Aug 2021 13:42:19 GMT
+   Authentication type: ntlm
+
+Launch bruteforce on included targets [y/N] ?  y
+
+Progress : 6 (end)
+
+Finished

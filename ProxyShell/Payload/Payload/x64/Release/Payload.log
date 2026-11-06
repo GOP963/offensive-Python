@@ -1,0 +1,7 @@
+﻿  Payload.cpp
+C:\Users\NEO\Desktop\RavinAcademy\RedTeam-01\07\ProxyShell\Payload\Payload\Payload.cpp(170,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Payload.vcxproj -> C:\Users\NEO\Desktop\RavinAcademy\RedTeam-01\07\ProxyShell\Payload\x64\Release\Payload.exe

